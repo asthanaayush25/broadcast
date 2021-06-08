@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.4",
+    "async": "^2.1.4",
+    "commander": "^2.9.0",
+    "csv": "^5.5.0",
+    "inquirer": "^2.0.0",
+    "sendgrid": "^4.7.1"
+  }
+}
